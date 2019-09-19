@@ -1,2 +1,7 @@
-# htw-imi-ic2-wecker
-Lichtwecker mit Arduino
+# Lichtwecker mit Arduino
+
+Dieses Projekt entstand im Rahmen des Masterstudiengangs Internationale Medieninformatik an der HTW Berlin.
+
+Entstanden ist ein Lichtwecker für Kinder, welcher mittels RFID (MIFARE) gesteuert wird.
+
+Der Code wird in Kürze zur Verfügung gestellt.
