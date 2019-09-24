@@ -4,4 +4,4 @@ Dieses Projekt entstand im Rahmen des Masterstudiengangs Internationale Medienin
 
 Entstanden ist ein Lichtwecker für Kinder, welcher mittels RFID (MIFARE) gesteuert wird.
 
-Der Code wird in Kürze zur Verfügung gestellt.
+Eine Anleitung wird in Kürze zur Verfügung gestellt.
